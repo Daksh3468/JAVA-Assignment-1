@@ -19,7 +19,7 @@
 // Key D B D C C D A E A D
 // Your program grades the test and displays the result. It compares each student’s 
 // answers with the key, counts the number of correct answers, and displays it.
-// Git-hub repository: 
+// Git-hub repository: https://github.com/Daksh3468/JAVA-Practical
 import java.util.*;
 public class Daksh1_8main {
     public static void main(String[] args) {

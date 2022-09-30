@@ -6,7 +6,7 @@
 // startOz("ozymandias") → "oz"
 // startOz("bzoo") → "z"
 // startOz("oxx") → "o"
-// Git-hub repository: 
+// Git-hub repository: https://github.com/Daksh3468/JAVA-Practical
 import java.util.*;
 public class Daksh1_2main {
     public static void main(String[] args) {

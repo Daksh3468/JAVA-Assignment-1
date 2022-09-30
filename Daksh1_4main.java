@@ -5,7 +5,7 @@
 // array123([1, 1, 2, 3, 1]) → true
 // array123([1, 1, 2, 4, 1]) → false
 // array123([1, 1, 2, 1, 2, 3]) → true
-// Git-hub repository: 
+// Git-hub repository: https://github.com/Daksh3468/JAVA-Practical
 import java.util.*;
 public class Daksh1_4main {
     public static void main(String[] args) {

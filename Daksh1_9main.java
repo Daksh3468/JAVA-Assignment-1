@@ -1,7 +1,7 @@
 // Name :- Daksh Bangoria
 // Roll-no :-21ce007
 // Aim :-The problem is to check whether a given Sudoku solution is correct.
-// Git-hub repository: 
+// Git-hub repository: https://github.com/Daksh3468/JAVA-Practical
 import java.util.*;
 public class Daksh1_9main {
     public static void main(String[] args) {

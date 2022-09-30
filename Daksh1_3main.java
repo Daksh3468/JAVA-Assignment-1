@@ -6,7 +6,7 @@
 // lastDigit(7, 17) → true
 // lastDigit(6, 17) → false
 // lastDigit(3, 113) → true
-// Git-hub repository: 
+// Git-hub repository: https://github.com/Daksh3468/JAVA-Practical
 import java.util.*;
 public class Daksh1_3main {
     public static void main(String args[])

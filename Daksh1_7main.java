@@ -9,7 +9,7 @@
 //      1 2 4 8 16 32 16 8 4 2 1
 //   1 2 4 8 16 32 64 32 16 8 4 2 1
 // 1 2 4 8 16 32 64 128 64 32 16 8 4 2 1 
-// Git-hub repository: 
+// Git-hub repository: https://github.com/Daksh3468/JAVA-Practical
 import java.util.*;
 
 public class Daksh1_7main {
